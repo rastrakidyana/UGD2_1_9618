@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UGD2_1_9618</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="h3_hg">Hello Guest!</string>
+    <string name="s2_tv1">Hi, let me introduce myself, my name Rastra</string>
+    <string name="s2_tv2">Want to know more?</string>
+    <string name="s2_tv3">Know my social media account</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_age">Age</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="h3_md">Move Detected!</string>
+    <string name="h6_nama"></string>
+    <string name="hint_snack">Choose snack</string>
+    <string name="back">BACK</string>
+    <string name="done">DONE</string>
+    <string name="namefull"></string>
+
+
+</resources>
